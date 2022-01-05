@@ -1,1 +1,1 @@
-Just a small repo as proof that I'm still practicing on the side.
+Just a small repo as proof that I'm practicing Flexbox.
